@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Dictionary File</comment>
+<entry key="FakeWord6">Fake Definition6</entry>
+<entry key="FakeWord5">Fake Definition5</entry>
+<entry key="FakeWord4">Fake Definition4</entry>
+<entry key="FakeWord3">Fake Definition3</entry>
+<entry key="FakeWord2">Fake Definition2</entry>
+<entry key="FakeWord1">Fake Definition1</entry>
+<entry key="FakeWord0">Fake Definition0</entry>
+<entry key="FakeWord9">Fake Definition9</entry>
+<entry key="FakeWord8">Fake Definition8</entry>
+<entry key="FakeWord7">Fake Definition7</entry>
+</properties>
